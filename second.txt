@@ -1,5 +1,4 @@
-Added to the start of the file.
-Here's my secon file.
+Here's my second file.
 It's as good as my first one!
 
 Here are more changes.
